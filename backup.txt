@@ -1,0 +1,4 @@
+0 = Nombre: , anaching Lugar:limon Fecha:2 Tipo de identificacón: nacional N de identificación: 1 Trabaja: n
+
+1 = Nombre: , pedrogomez Lugar:alajuela Fecha:2 Tipo de identificacón: d N de identificación: 2 Trabaja: s
+
